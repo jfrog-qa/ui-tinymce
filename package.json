@@ -2,9 +2,9 @@
   "name": "angular-ui-tinymce",
   "version": "0.0.19",
   "descriptin": "This directive allows you to add a tinymce to your form elements.",
-  "author": "https://github.com/angular-ui/ui-tinymce/graphs/contributors",
+  "author": "https://github.com/jfrog-qa/ui-tinymce/graphs/contributors",
   "license": "MIT",
-  "homepage": "http://angular-ui.github.com",
+  "homepage": "http://jfrog-qa.github.com",
   "main": "src/tinymce.js",
   "dependencies": {},
   "devDependencies": {
@@ -23,6 +23,6 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://angular-ui/ui-tinymce.git"
+    "url": "https://jfrog-qa/ui-tinymce.git"
   }
 }
