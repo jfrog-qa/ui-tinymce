@@ -23,6 +23,6 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular-ui/ui-tinymce.git"
+    "url": "https://angular-ui/ui-tinymce.git"
   }
 }
